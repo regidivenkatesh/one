@@ -839,6 +839,16 @@
     reviews: 234,
     img: 'https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=600&q=80',
     category: 'appliances'
+},
+{
+    id: 10,
+    title: 'Nothing Phone (2a)',
+    price: 329,
+    oldPrice: 399,
+    rating: 4,
+    reviews: 312,
+    img: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80',
+    category: 'gadgets'
 }
         ];
 
